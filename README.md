@@ -1,2 +1,2 @@
 # Bootstrap-project
-This project is for Bootstrap course, the project was built by Pingendo Bootstrap builder.
+This project was required in Bootstrap course, the project was built using Pingendo Bootstrap builder.
